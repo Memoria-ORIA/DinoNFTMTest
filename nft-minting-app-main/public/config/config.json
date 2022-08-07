@@ -10,7 +10,7 @@
   "SYMBOL": "NTWO",
   "MAX_SUPPLY": 9999,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": "Purchase 1 BNB of Dinuu during Pinksale, earn 1 free DinoDefi NFT. Mint a Golden Egg, earn 30 000 USDT!!",
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dinodefintwo",
