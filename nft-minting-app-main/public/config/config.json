@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x217a7bDb4535A9cAC0313E3e0a3168c0d14e84ed",
   "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x217a7bdb4535a9cac0313e3e0a3168c0d14e84ed",
   "NETWORK": {
-    "NAME": "Polygon",
+    "NAME": "Polygon Mumbai",
     "SYMBOL": "Matic",
-    "ID": 137
+    "ID": 8001
   },
   "NFT_NAME": "DinoDefiNTWO",
   "SYMBOL": "NTWO",
