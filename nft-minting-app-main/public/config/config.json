@@ -10,7 +10,7 @@
   "SYMBOL": "DIN8",
   "MAX_SUPPLY": 9999,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": "absolutely nothing as long as you invest at least 1 BNB during Pinksale. Mint a Golden Egg, earn 30 000 USDT!!",
+  "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dinodefi8",
